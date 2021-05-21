@@ -24,7 +24,6 @@
 
 ## Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ricky16x&repo=RebootWarriors&show_owner=true)](https://github.com/ricky16x/RebootWarriors)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ricky16x&repo=nofap-bot&show_owner=true)](https://github.com/ricky16x/nofap-bot)
 
 
