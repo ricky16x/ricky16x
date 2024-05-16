@@ -7,6 +7,6 @@
 
 <div>
  <p>
-<b> I'm a high school student passionate about math and computers.</b>
+<b> I'm a student passionate about math.</b>
 </p>
 </div>
