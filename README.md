@@ -17,7 +17,7 @@ I'm an engineering student pursuing **Computer Science and Engineering (CSE)** w
 
 Feel free to reach out — Always up for interesting conversations!
 
-**Email**: rounakd@disroot.org
+**Email**: tech@rounakd.simplelogin.com
 
 ---
 
