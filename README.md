@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there! I'm Rounak 👋
 
-<!--
-**ricky16x/ricky16x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student pursuing **Computer Science and Engineering (CSE)** with a passion for building, and breaking systems. Advocating free speech, open-source, and digital privacy to help build a freer, more secure internet.
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 CSE undergrad passionate about digital privacy, and open-source.
+- 🛡️ Strong advocate for **privacy**, **encryption**, and **freedom of expression online**.
+- 🤝 Always open to collaborate on privacy-focused or open-source projects
+
+## 🛠️ Tech Stack
+
+- **Languages**: C, C++, Python, Ruby, Rust
+- **Tools**:  Git, Linux, Docker, Nmap, Wireshark
+
+## 📫 Contact
+
+Feel free to reach out — Always up for interesting conversations!
+
+**Email**: tech@rounakd.simplelogin.com
+
+---
+
+
+
